@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 100px;
+}
+.header a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    
+
+}
+.header .logo{   
+    width: 200px;
+    height: 100px;
+    border-radius: 5px;   
+}
+.header .title-group{
+   
+    
+    margin-left: 50px;
+    color: white;
+}
+.title-group .material-icons{
+    padding-right: 10px;
+    color: white;
+}

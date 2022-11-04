@@ -1,0 +1,14 @@
+.sidenav{
+    background-color: rgb(5, 4, 12);
+    width: 200px;
+}
+.sidenav a{
+    color: white;
+}
+.sidenav .material-icons{
+    padding-right: 10px;
+}
+.content{
+    padding: 16px;
+    background-color: #fff;
+}
